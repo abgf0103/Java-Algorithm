@@ -1,4 +1,4 @@
-public class Java0110 {
+public class Java0110n1 {
 
     public static int solution(String s) {
         return Integer.parseInt(s);
