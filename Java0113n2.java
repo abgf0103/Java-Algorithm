@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Java0111n3 {
+public class Java0113n2 {
     public static long solution(int price, int money, int count) {
         long sum = 0;
         long answer = -1;
@@ -14,6 +12,6 @@ public class Java0111n3 {
     }
 
     public static void main(String[] args) {
-        System.out.println(solution(3, 20, 4, 10));
+        System.out.println(solution(3, 20, 4));
     }
 }

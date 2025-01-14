@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Java0111n3 {
+public class Java0112n2 {
     public static String solution(String s) {
         if(s.length() % 2 == 0){
             return s.substring(s.length()/2-1,s.length()/2+1);

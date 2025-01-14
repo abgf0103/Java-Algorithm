@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Java0111n3 {
+public class Java0112n1 {
     public static boolean solution(String s) {
         int answer = 0;
         String[] words = s.split("");

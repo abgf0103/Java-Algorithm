@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Java0111n3 {
+public class Java0112n3 {
     public static int solution(int left, int right) {
         int answer = 0;
         for(int i = left; i <=right; i++){
